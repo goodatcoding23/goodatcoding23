@@ -16,7 +16,7 @@
 <h2>Github stats :bar_chart:</h2>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=goodatcode23&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=goodatcoding23&theme=react" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=goodatcoding23&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=goodatcoding23&theme=react" />
 </p>
 
 <p align="center">
